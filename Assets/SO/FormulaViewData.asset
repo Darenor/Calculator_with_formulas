@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec1ab6c93354484daef151d7977b686, type: 3}
+  m_Name: FormulaViewData
+  m_EditorClassIdentifier: 
+  speedFormula: v = s / t
+  accelerationFormula: a = (v - v<sub>0</sub>) / t
+  forceFormula: "F = m \xB7 a"
+  gravityForceFormula: "F<sub>\u0442\u044F\u0436</sub> = m \xB7 g"
+  potentialEnergyFormula: "E<sub>p</sub> = m \xB7 g \xB7 h"
